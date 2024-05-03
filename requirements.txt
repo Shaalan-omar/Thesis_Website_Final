@@ -1,0 +1,6 @@
+matplotlib==3.8.4
+numpy==1.26.4
+opencv_python==4.9.0.80
+opencv_python_headless==4.8.0.74
+roboflow==1.1.28
+streamlit==1.33.0
